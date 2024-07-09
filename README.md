@@ -8,7 +8,7 @@
 
 * The project utilizes Random Forest machine learning techniques to classify colleges into different fee categories that is High ,Low,and Medium. 
 
-* Offers a Flask API to serve predictions, along with an HTML frontend for user interaction.
+* Offers a Flask backend to serve predictions, along with an HTML frontend for user interaction.
 
 ## Project Structure
  college-fee-category-predictor
