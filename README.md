@@ -40,6 +40,8 @@ The application will be available at http://127.0.0.1:5000/.
 
 Open your web browser and navigate to http://127.0.0.1:5000/ to access the HTML frontend and interact with the application.
 
+![web front](https://github.com/rathour-anushka/college_fee_category_prediction/blob/main/frontend/testing/img_1.png)
+
 ## 📦 Dependencies
 
 The project requires the following dependencies:
