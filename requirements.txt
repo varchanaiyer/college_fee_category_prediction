@@ -1,0 +1,13 @@
+# Libraries
+pip install flask
+pip install pandas
+pip install numpy  
+pip install scikit-learn
+pip install matplotlib
+pip install seaborn
+
+# Python Version 3.12.3
+# Jupyter Notebook/ VS Code for jupyter notebooks
+# VS Code for flask
+# Ms Excel for csv
+
