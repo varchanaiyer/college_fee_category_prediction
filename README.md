@@ -68,6 +68,10 @@ These are listed in the requirements.txt file and can be installed using pip ins
   
   This script handles the cleaning and preprocessing of the dataset.
 
+  - **Feature Engineering** (intel project.ipynb)
+
+    This script generates a new column consisting new features.
+
 - **Model Training** (intel project.ipynb)
 
     This script trains the machine learning model and saves it for later use.
