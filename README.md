@@ -12,8 +12,8 @@
 
 1️⃣ Clone the Repository
             
-    git clone https://github.com/yourusername/college-fee-category-predictor.git
-     cd college-fee-category-predictor
+    git clone https://https://github.com/rathour-anushka/college_fee_category_prediction
+     cd college_fee_category_predictor
 
 2️⃣ Set Up a Virtual Environment
  
