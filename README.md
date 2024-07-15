@@ -109,7 +109,7 @@ These are listed in the requirements.txt file and can be installed using pip ins
   Users can open this notebook in Jupyter to explore and understand the analysis process.
 
 - **Classification and Prediction**
-  1. Input Features: Total Student Enrollments, Total Faculty, Established Year, and other relevant features.
+  1. Input Features: State, Average Fees, Established Year, and other relevant features.
   2. Output: Fee Category (Low, Medium, High)
   3. The trained model classifies colleges into fee categories based on the input features.
 
