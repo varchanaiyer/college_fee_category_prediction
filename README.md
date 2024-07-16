@@ -113,7 +113,7 @@ These are listed in the requirements.txt file and can be installed using pip ins
   2. Output: Fee Category (Low, Medium, High)
   3. The trained model classifies colleges into fee categories based on the input features.
 
-    ![web front](https://github.com/rathour-anushka/college_fee_category_prediction/blob/main/frontend/testing/img_2.png)
+    ![web prediction](https://github.com/rathour-anushka/college_fee_category_prediction/blob/main/frontend/Web%20Interface/PREDICTION.png)
   
 - **Visualization**
 
