@@ -12,7 +12,7 @@
 
 1️⃣ Clone the Repository
             
-    git clone https://https://github.com/rathour-anushka/college_fee_category_prediction
+    git clone https://github.com/rathour-anushka/college_fee_category_prediction
      cd college_fee_category_predictor
 
 2️⃣ Set Up a Virtual Environment
@@ -32,7 +32,7 @@ Install the required packages using pip:
 
 Start the Flask server by running:
 
-    python app.py
+    python frontend/app.py
 
 The application will be available at http://127.0.0.1:5000/.
 
